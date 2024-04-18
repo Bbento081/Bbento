@@ -1,0 +1,24 @@
+    body{
+        font: normal 20pt Aria;
+        background: rgb(101, 101, 135);
+    }
+    header{
+        color: white;
+        text-align: center;
+        margin: auto;
+    }
+    section{
+        background: white;
+        width: 500px;
+        padding: 10px;
+        text-align: center;
+        margin: auto;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.548);
+    }
+    footer{
+        color: color-mix(in srgb, rgb(0, 0, 0) 100%, red 25%);
+        font-style: italic;
+        margin: auto;
+        text-align: center;
+    }
